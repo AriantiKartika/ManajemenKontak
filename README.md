@@ -1,5 +1,14 @@
 # Sistem Manajemen Kontak (PHP & Tailwind CSS)
 
+Proyek ini dibuat untuk menyelesaikan **Tugas Akhir Judul 4 Praktikum Pemrograman Web**.
+
+**Oleh:**
+* **Nama:** Arianti Kartika Dewi
+* **NPM:** 2315061047
+* **Kelas:** PPW-B
+
+---
+
 Proyek ini adalah aplikasi web CRUD (Create, Read, Update, Delete) sederhana untuk manajemen kontak. Aplikasi ini dibangun murni menggunakan **PHP** dan **Tailwind CSS** (via CDN).
 
 Aplikasi ini tidak memerlukan *database* (seperti MySQL) karena semua data kontak disimpan sementara di dalam **PHP Session**.
@@ -8,9 +17,7 @@ Aplikasi ini tidak memerlukan *database* (seperti MySQL) karena semua data konta
 
 Berikut adalah tampilan dari halaman utama daftar kontak:
 
-![Tampilan Daftar Kontak](dashboard.png)
-
-*(Catatan: Ganti `path/to/your/screenshot.png` dengan screenshot Anda sendiri setelah meng-uploadnya ke repositori).*
+![Tampilan Daftar Kontak](image.png)
 
 ## ✨ Fitur Utama
 
